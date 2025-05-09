@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gedhveikur
+_- 👋 Hi, I’m @beka_
 - 👀 I’m interested in font engineering and industrial style design 
 - 💞️ I’m looking to collaborate on creating Georgian (Mkhedruli) fonts
 - 📫 How to reach me – buchashvili.beka@gmail.com
